@@ -4,7 +4,7 @@ namespace Sharkawy;
 
 use Illuminate\Support\ServiceProvider;
 
-class MediaLibraryServiceProvider extends ServiceProvider
+class SharkawyServiceProvider extends ServiceProvider
 {
     public function boot()
     {
