@@ -19,4 +19,3 @@ class Random implements RandomInterface
         return $randomString;
     }
 }
-d
