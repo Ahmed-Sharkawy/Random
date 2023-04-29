@@ -1,0 +1,21 @@
+{
+    "name": "sharkawy/random",
+    "description": "The function of this package is to generate random letters and numbers based on the number that you will specify, and if you do not specify, you will generate 10 random letters and numbers",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sharkawy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed-Sharkawy",
+            "email": "ahmedmaher0110@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.3|^8.0"
+    }
+}
